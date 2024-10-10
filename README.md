@@ -23,7 +23,7 @@ THANK YOU!
 #
 #
 #
-https://piyushmangal.github.io/SECRET: DO NOT ENTER
+https://piyushmangal.github.io/
 
 
 
