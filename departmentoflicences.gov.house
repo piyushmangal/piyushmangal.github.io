@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title> Appeal for fake license </title>
+ <body>
+  <h3> Response against regulatory action for issuing fake license </h3>
+   <form>
+    <input type="file" name="fileupload"accept="image/*"/>
+   </form>
+   <form>
+    <input type="radio" name="gender"value="male">Male
+    <input type="radio" name="gender"
+           value="female">Female
+   </form>
+  <form> 
+   <textarea rows="5" cols="50"
+    name="description">
+    Enter description here...
+   </textarea>
+  </form>
+<br>
+    <button><strong>Sumbit</strong></button>
+<br>  
+  <a href="ShaanFoodyRestaurant.html">Shaan Foody Restaurant</a>
+  <ul>
+  <a href="SnakeGame.html">See the Block</a>
+  </ul>
+  <a href="Help.html">Help Us</a>
+<ul>
+  <a href="how to use.html">How to use</a>
+</ul>
+ <ul>
+<a href="index.html">Home</a>
+  </body>
+ </head>
+</html>
